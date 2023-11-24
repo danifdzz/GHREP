@@ -6,6 +6,7 @@ public class principal {
 		System.out.println("Ya se usar GIT");
 		String a="pelayo";
 		int num= 5656;
+		System.out.println("ahota en github");
 		
 	}
 
